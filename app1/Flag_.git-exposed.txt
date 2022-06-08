@@ -1,0 +1,3 @@
+Parabéns, pelo visto você tem conhecimento sobre .git_exposed!
+Tome sua flag!
+SiTech_FLAG{.Gi7_3xp02sed!Is-th3-new_Rc3@!}

@@ -1,0 +1,34 @@
+header {
+    background-color: rgb(245, 243, 243);
+}
+
+.menu_main {
+    width: 500px;
+    height: 300px;
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(244, 244, 244, 0.647);
+    border-radius: 15px;
+}
+
+#notes {
+    text-align: center;
+    margin-top: 100px;
+    width: 100%;
+    height: 150px;
+    background-color: rgba(245, 245, 245, 0.77);
+}
+
+.title-box {
+    font-size: 18px;
+}
+
+.contents-box {
+    padding-top: 20px;
+}

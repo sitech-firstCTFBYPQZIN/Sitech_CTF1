@@ -1,0 +1,48 @@
+header {
+    background-color: rgb(245, 243, 243);
+}
+
+.menu_main {
+    width: 500px;
+    height: 300px;
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(244, 244, 244, 0.647);
+    border-radius: 15px;
+}
+
+.container .row .col input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 300px;
+    margin: 20px;
+}
+
+.container .row .col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.container .row .col button {
+    width: 200px;
+}
+
+.container .row .col a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 11px;
+    margin-bottom: 15px;
+}
